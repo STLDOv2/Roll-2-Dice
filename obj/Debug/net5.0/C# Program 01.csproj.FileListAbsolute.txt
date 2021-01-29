@@ -1,0 +1,32 @@
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\C# Program 01.exe
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\C# Program 01.deps.json
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\C# Program 01.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\C# Program 01.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\ref\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\C# Program 01\bin\Debug\net5.0\C# Program 01.pdb
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\ref\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.pdb
+C:\Users\migue\OneDrive\Documents\C# Program 01\obj\Debug\net5.0\C# Program 01.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\C# Program 01.exe
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\C# Program 01.deps.json
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\C# Program 01.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\C# Program 01.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\ref\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\bin\Debug\net5.0\C# Program 01.pdb
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\ref\C# Program 01.dll
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.pdb
+C:\Users\migue\OneDrive\Documents\Visual Studio Code\C#\Roll 2 Dice\obj\Debug\net5.0\C# Program 01.genruntimeconfig.cache
